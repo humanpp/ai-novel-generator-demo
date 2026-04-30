@@ -27,6 +27,7 @@ Token 额度耗尽，下列问题只能遗憾留待未来慢慢修补：
 ---
 ![Demo演示1](https://github.com/humanpp/ai-novel-generator-demo/blob/main/assets/Snipaste_2026-04-30_19-09-53.png)
 ![Demo演示2](https://github.com/humanpp/ai-novel-generator-demo/blob/main/assets/Snipaste_2026-04-30_19-11-15.png)
+![Demo演示3](https://github.com/humanpp/ai-novel-generator-demo/blob/main/assets/Snipaste_2026-04-30_19-31-56.png)
 ---
 
 ## 功能特性
